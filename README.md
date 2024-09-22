@@ -6,7 +6,6 @@ Photoz Clone is a simple Spring Boot application that allows users to upload and
 
 - **Photo Upload**: Upload photos using a simple HTML frontend or Postman.
 - **Photo Download**: View or download photos using a unique ID.
-- **In-Memory Storage**: Stores uploaded photos in memory (via a HashMap).
 - **Basic Error Handling**: Returns appropriate HTTP status codes (e.g., 404 for not found).
 
 ## Technologies Used
