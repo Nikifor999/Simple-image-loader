@@ -11,22 +11,15 @@ Photoz Clone is a simple Spring Boot application that allows users to upload and
 
 ## Technologies Used
 
-- **Java 11+**: Programming language.
+- **Java 17**: Programming language.
 - **Spring Boot**: Framework for building the backend service.
 - **H2 Database**: An in-memory database (can be configured for other databases if needed).
 - **Maven**: Build and dependency management.
-- **HTML & JavaScript**: Basic frontend for photo upload.
+- **HTML**: Basic frontend for photo upload.
 
 ## Prerequisites
 
-- **Java 11 or later**: Ensure Java is installed on your machine.
+- **Java 17 or later**: Ensure Java is installed on your machine.
 - **Maven**: Make sure Maven is installed and configured.
 - **Git**: For cloning the repository.
 
-## Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/marcobehlerjetbrains/photoz-clone.git
-cd photoz-clone
